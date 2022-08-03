@@ -23,6 +23,6 @@ I'm currently a student of <a href="https://ittelkom-pwt.ac.id/">Institute Techn
 </p>
 
 ### Reach me on
-- <a href="[https://linkedin.com/in/dimasmds](https://www.linkedin.com/in/izaditya/)/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/izaditya/">LinkedIn</a>
 - adityaimam8@gmail.com
 - <a href="https://www.instagram.com/beyyascending/">Instagram</a>
