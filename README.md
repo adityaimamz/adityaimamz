@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Aditya Imam Zuhdi**.
 
-Saya adalah seorang yang sedang belajar menjadi **Front End Engineer** dan **Front End Engineer**.
+Saya adalah seorang yang sedang belajar menjadi **Front End Engineer** dan **Back End Engineer**.
 
 Saya memiliki beberapa kemampuan dalam Pemprograman terutama pemprograman WEB seperti **HTML** **CSS** dan **Javascript**.
 
