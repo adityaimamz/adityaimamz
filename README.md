@@ -2,7 +2,7 @@
 
 I'm currently a student of <a href="https://ittelkom-pwt.ac.id/">Institute Technology Telkom Purwokerto </a> majoring in Informatics Engineering.
 
-- 💬 I'm currently in semester 4. 
+- 💬 I'm currently in semester 5. 
 - 📫 How to reach me: adityaimam8@gmail.com
 - ⚡ i Liked a lot things.
 
