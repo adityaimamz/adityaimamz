@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Adit.
 
-I'm currently a student of <a href="https://ittelkom-pwt.ac.id/">Institute Technology Telkom Purwokerto </a> majoring in Informatics Engineering.
+As a web developer with 2 years of experience, I have good problem-solving skills and am able to work under pressure to complete projects on time. I have good communication skills and have experience working together as a team. With in-depth knowledge in front-end and back-end development, I use various programming languages and frameworks on demand to solve client problems.
 
 - 📫 How to reach me: adityaimam8@gmail.com
 
