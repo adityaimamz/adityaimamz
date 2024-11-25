@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Adit.
 
-As a web developer with 2 years of experience, I have good problem-solving skills and am able to work under pressure to complete projects on time. I have good communication skills and have experience working together as a team. With in-depth knowledge in front-end and back-end development, I use various programming languages and frameworks on demand to solve client problems.
+As a web developer ,I have good problem-solving skills and am able to work under pressure to complete projects on time. I have good communication skills and have experience working together as a team. With in-depth knowledge in front-end and back-end development, I use various programming languages and frameworks on demand to solve client problems.
 
 - 📫 How to reach me: adityaimam8@gmail.com
 
